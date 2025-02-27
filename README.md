@@ -1,4 +1,4 @@
-**#📊 OLS, ANCOVA & Generalized Models in R**
+**📊 OLS, ANCOVA & Generalized Models in R**
 
 This project explores OLS regression, ANCOVA, and Generalized Linear Models (GLM) using R. It covers key statistical methods like ANOVA, multiple linear regression, and logistic regression, with real-world datasets and practical examples.
 
